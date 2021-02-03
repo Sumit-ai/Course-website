@@ -7,7 +7,8 @@ _This course is devided into the 5 lessons_: Every course will have one in class
 - Introduction to the IDE (Integrated Development Environment):
 * Anaconda, **Google Colab** and Kaggle Environment.
 Please click [here](https://colab.research.google.com/drive/1Qq5bEuCC8kRjKMidPuakuGKD9vkGCgKy?usp=sharing)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
+
+[![Open In Colab(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
 `In this course we will use Jupyter Notebook in Google Colab environment. `
 
 * Basic Python operations and funtions. 
