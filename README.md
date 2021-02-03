@@ -6,9 +6,7 @@ _This course is devided into the 5 lessons_: Every course will have one in class
 1. Deep Learning Introduction:
 - Introduction to the IDE (Integrated Development Environment):
 * Anaconda, **Google Colab** and Kaggle Environment.
-Please click [here](https://colab.research.google.com/drive/1Qq5bEuCC8kRjKMidPuakuGKD9vkGCgKy?usp=sharing)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/)
+Please click [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qq5bEuCC8kRjKMidPuakuGKD9vkGCgKy?usp=sharing)
 
 `In this course we will use Jupyter Notebook in Google Colab environment. `
 
