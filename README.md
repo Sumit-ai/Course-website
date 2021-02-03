@@ -1,6 +1,6 @@
 **In this course we will study basics of Deep Learing. Generally in other courses the rule is first theory and then practical. In this course I will try to cover both parts simulteneously. We will follow learning by doing approach.**
 
-## Course Content:
+
 This course is devided into the 5 lessons: Every course will have one  practical assignment 
 
 1. Deep Learning Introduction:
