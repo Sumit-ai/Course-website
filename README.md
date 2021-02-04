@@ -30,7 +30,7 @@ _This course is divided into the 5 lessons_: Every course will have one in-class
 5. **Introduction to transfer learning and model deployment.**  
 - ResNet-50 and ResNet-25. 
 - How to deploy the model using Gradio library. 
-<img align="center" src="https://github.com/Sumit-ai/Aorta-Detection-using-Pix2Pix-GAN/blob/main/ezgif.com-gif-maker%20(1).gif" width="800" />
+<img align="center" src="ezgif.com-gif-maker%20(1).gif" width="800" />
 
 
 (`In this course we will use Jupyter Notebook in Google Colab environment. `)
