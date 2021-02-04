@@ -1,7 +1,7 @@
 
-In this course we will study basics of Deep Learing. Generally in other courses the rule is first theory and then practical. In this course I will try to cover both parts simulteneously. We will follow learning by doing approach.
+In this course, we will study the basics of Deep Learning. Generally, in other courses, the rule is first theory and then practical. In this course, I will try to cover both parts simultaneously. We will follow the learning by doing approach.
 
-_This course is devided into the 5 lessons_: Every course will have one in class coding assignment 
+_This course is divided into the 5 lessons_: Every course will have one in-class coding assignment.  
 
 1. **Deep Learning Introduction**
 - Introduction to the IDE (Integrated Development Environment): Anaconda, **Google Colab** and Kaggle Environment. Please click here -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qq5bEuCC8kRjKMidPuakuGKD9vkGCgKy?usp=sharing)
