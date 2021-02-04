@@ -6,8 +6,7 @@ _This course is divided into the 5 lessons_: Every course will have one in-class
 1. **Deep Learning Introduction**
 - Introduction to the IDE (Integrated Development Environment): Anaconda, **Google Colab** and Kaggle Environment. Please click here -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qq5bEuCC8kRjKMidPuakuGKD9vkGCgKy?usp=sharing)
 - Basic Python operations and funtions. 
-- Perceptron: Father of Artificial Neural Network or ANN.
-- theory and practical. 
+- Perceptron (Father of Artificial Neural Network or single Neuron): Theory and practical. 
 
 
 2. **Introduction to python and Deep Learning libraries.**
