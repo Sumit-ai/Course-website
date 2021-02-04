@@ -12,12 +12,13 @@ _This course is divided into the 5 lessons_: Every course will have one in-class
 2. **Introduction to python and Deep Learning libraries.**
 - Tensorflow, Pandas, Numpy. matplotlib (small introduction)
 - First model in Tensorflow. (`hello in tensorflow`) regression and classification 
-
-
-3. **Neural Network for Image classification.** 
 - Convolutional neural network. 
 - theory and practical. 
-- save the model and reuse it. 
+- save the model and reuse it.
+
+
+3. **Segmentation using Tensorflow.** 
+- UNet using tensorflow: theory and practical 
 
 
 4. **Hyperparameter tuning and Augmentation.** 
