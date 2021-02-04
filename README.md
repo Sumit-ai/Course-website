@@ -17,7 +17,7 @@ _This course is divided into the 5 lessons_: Every course will have one in-class
 - save the model and reuse it.
 
 
-3. **Segmentation using Tensorflow.** 
+3. **Segmentation and detection using Tensorflow.** 
 - UNet using tensorflow: theory and practical 
 
 
