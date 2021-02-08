@@ -15,11 +15,12 @@ _This course is divided into the 5 lessons_: Every course will have one in-class
 - First model in Tensorflow. (`hello in tensorflow`) regression and classification 
 - Convolutional neural network. 
 - theory and practical. 
-- save the model and reuse it.
+
 - [Lesson 2](https://colab.research.google.com/drive/1DkqABWgCNfdm-6PTVsOoVt4bwsm2FPyI?usp=sharing)
 
 3. **Segmentation and detection using Tensorflow.** 
 - UNet using tensorflow: theory and practical 
+- save the model and reuse it.
 
 
 4. **Hyperparameter tuning and Augmentation.** 
