@@ -13,7 +13,7 @@ _This course is divided into the 5 lessons_: Every course will have one in-class
 2. **Introduction to python and Deep Learning libraries.**
 - Tensorflow, Pandas, Numpy. matplotlib (small introduction)
 - First model in Tensorflow. (`hello in tensorflow`) regression and classification 
-- Convolutional neural network. 
+- Convolutional neural network (CNN). 
 - theory and practical. 
 - [Lesson 2](https://colab.research.google.com/drive/1DkqABWgCNfdm-6PTVsOoVt4bwsm2FPyI?usp=sharing)
 
