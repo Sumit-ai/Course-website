@@ -13,17 +13,13 @@ _This course is divided into the 5 lessons_: Every course will have one in-class
 2. **Introduction to python and Deep Learning libraries.**
 - Tensorflow, Pandas, Numpy. matplotlib (small introduction)
 - First model in Tensorflow. (`hello in tensorflow`) regression and classification 
-- Convolutional neural network (CNN). 
-- theory and practical. 
 - [Lesson 2](https://colab.research.google.com/drive/1DkqABWgCNfdm-6PTVsOoVt4bwsm2FPyI?usp=sharing)
 
 3. **Segmentation and detection using Tensorflow.** 
-- UNet using tensorflow: theory and practical 
-- save the model and reuse it.
+- Convolutional neural network (CNN). 
 - [Lesson 3 a](https://colab.research.google.com/drive/1b5NNpnUBQYPORI41nJGznUAQx_TjsrmY?usp=sharing) 
+- UNet using tensorflow. 
 - [lesson 3 b](https://www.kaggle.com/sumitai/lung-segmentation-from-chest-x-ray-dataset?scriptVersionId=54480345)
-
-
 
 4. **Hyperparameter tuning and Augmentation.** 
 - What are hyperparameters 
