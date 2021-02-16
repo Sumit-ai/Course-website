@@ -20,7 +20,9 @@ _This course is divided into the 5 lessons_: Every course will have one in-class
 3. **Segmentation and detection using Tensorflow.** 
 - UNet using tensorflow: theory and practical 
 - save the model and reuse it.
-- [lesson 3](https://www.kaggle.com/sumitai/lung-segmentation-from-chest-x-ray-dataset?scriptVersionId=54480345)
+- [Lesson 3 a](https://colab.research.google.com/drive/1b5NNpnUBQYPORI41nJGznUAQx_TjsrmY?usp=sharing) 
+- [lesson 3 b](https://www.kaggle.com/sumitai/lung-segmentation-from-chest-x-ray-dataset?scriptVersionId=54480345)
+
 
 
 4. **Hyperparameter tuning and Augmentation.** 
