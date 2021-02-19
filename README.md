@@ -25,6 +25,7 @@ _This course is divided into the 5 lessons_: Every course will have one in-class
 - What are hyperparameters 
 - How to tune your model 
 - Augmentation using tensorflow. 
+- [lesson 4](https://colab.research.google.com/drive/1JI-2hV3T2DSRbvSSx9qQLUbZzISo2PAw?usp=sharing)
 
 
 5. **Introduction to transfer learning and model deployment.**  
