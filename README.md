@@ -30,6 +30,9 @@ _This course is divided into the 5 lessons_: Every course will have one in-class
 
 5. **Introduction to transfer learning and model deployment.**  
 - ResNet-50 and ResNet-25. 
+- [Lesson 5(a): ResNet 50](https://colab.research.google.com/drive/1C_naovUBb9Gmavs-xjlWiu1RiNAZy76r?usp=sharing)
+- [Lesson 5(b): layer visualization ](https://colab.research.google.com/drive/10-6L4DGPflyO_BT5KSPKPrGjc70aWETm?usp=sharing)
+- [Lesson 5(c): Simple App](https://colab.research.google.com/drive/1B-_kWaaxGbRL1OKy29-lhghoB2tJ_Tws?usp=sharing)
 - How to deploy the model using Gradio library. 
 <img align="center" src="ezgif.com-gif-maker%20(1).gif" width="800" />
 
