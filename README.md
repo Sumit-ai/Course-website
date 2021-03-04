@@ -37,6 +37,13 @@ _This course is divided into the 5 lessons_: Every course will have one in-class
 <img align="center" src="ezgif.com-gif-maker%20(1).gif" width="800" />
 
 
+
+
 (`In this course we will use Jupyter Notebook in Google Colab environment. `)
 
 
+
+
+
+
+https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf
