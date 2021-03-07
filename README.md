@@ -38,7 +38,7 @@ _This course is divided into the 5 lessons_: Every course will have one in-class
 
 optional
 - [yolov3](https://www.kaggle.com/sumitai/yolov3?scriptVersionId=56070701)
-
+- [gradcam](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/grad_cam.ipynb#scrollTo=ukGzvpJfxtax)
 
 
 (`In this course we will use Jupyter Notebook in Google Colab environment. `)
