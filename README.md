@@ -36,6 +36,8 @@ _This course is divided into the 5 lessons_: Every course will have one in-class
 - How to deploy the model using Gradio library. 
 <img align="center" src="ezgif.com-gif-maker%20(1).gif" width="800" />
 
+optional
+- [yolov3](https://www.kaggle.com/sumitai/yolov3?scriptVersionId=56070701)
 
 
 
